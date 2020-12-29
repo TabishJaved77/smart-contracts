@@ -1,0 +1,51 @@
+Capture-1
+On running main.cpp, we get the following window
+User can press 0 or 1 or 2 to use the program
+
+Capture-2
+We gave
+user0 user1 0 20
+Here 'user0' transfers 'Rs20' to 'user1' on typing correct ID'0'
+This leads to successful transfer of money from user0 wallet to user1 wallet
+
+
+Capture-3
+Next we gave
+user0 user2 0 25
+Here 'user0' transfers 'Rs25' to 'user2' on typing correct ID'0'
+This leads to successful transfer of money from user0 wallet to user1 wallet
+
+Capture-4
+Next we gave
+user1 user0 1 40
+Here 'user1' transfers 'Rs40' to 'user0' on typing correct ID'0'
+This leads to successful transfer of money from user0 wallet to user1 wallet
+
+Capture-5
+This image shows the transcation history of user0
+
+It shows how much money was transerred from useri to user0 or vice-versa at what time
+
+Capture-6
+This image shows the transcation history of user1
+
+It shows how much money was transerred from useri to user1 or vice-versa at what time
+
+Capture-7
+This image shows the transcation history of user2
+
+It shows how much money was transerred from useri to user2 or vice-versa at what time
+
+Capture-8
+On pressing 0 program is terminated and all values are restored to default
+
+
+Capture-9
+On typing wrong id for user0, it rejects transcation and shows the following message
+
+Capture-10
+In an attempt to transer more money than what is available in a user's wallet,it rejects transcation and shows the following message
+
+Capture-11
+If we select same users,it rejects transcation and shows the following message
+
