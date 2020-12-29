@@ -1,5 +1,6 @@
 Cryptography Project
-The complete project Presentation is available here: https://drive.google.com/file/d/1YwjJLCz2ddRsHbLYXA8Ff7t-hQd6gW5f/view?usp=sharing
+The complete project Presentation is available here: 
+https://drive.google.com/file/d/1YwjJLCz2ddRsHbLYXA8Ff7t-hQd6gW5f/view?usp=sharing
 -------------------------------------------------
 Title: Smart Contract using BlockChain
 
@@ -15,8 +16,8 @@ How to run the code:
 1. Open BlockChain folder and open BlockChain.cbp 
 2. Run main.cpp
 3. Our program is designed for 6 (user0 to user5) users
-Each will have Rs-100 at the start of program
-They have the following ID(or password) to authenticate the transaction
+   Each will have Rs-100 at the start of program
+4. They have the following ID(or password) to authenticate the transaction
 
 user	ID
 ----------
